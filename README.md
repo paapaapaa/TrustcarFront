@@ -1,45 +1,19 @@
 # Trustcar
 Software Engineering Project course, Spring 2024
 
-## Running application requires:
+This is the frontEnd repository for the project.
 
-- XCode or Android Studio
-- Device for running, can be real or a simulator
-- Node
-- React native command line tools (react-native-cli)
-- JDK (Android)
 
-## How to run the application:
+##a few of my contributions to this repo
 
-```bash
-git clone https://github.com/horridparlor/trustcar-front.git
-cd trustcar-front
-npm install
-```
+https://github.com/user-attachments/assets/8ac3a1a3-b97c-44b3-8f2e-0434d0252e25
 
-if you use iOS:
-```bash
-cd ios
-pod install
-cd ..
-npm run ios (or run from the XCode)
-```
+I created this description part that opens up after pressing a color and the picture taking and cropping features
 
-if you use Android:
-```bash
-npm run android
-```
 
-## Debug and issues
-Android:
-```bash
-cd android
-./gradlew clean
-./gradlew app:assembleDebug
-```
-or use Android Studio logcat
 
-iOS:
-Xcode debug area
+https://github.com/user-attachments/assets/f3026fa6-2954-432e-9845-cb4ed6ed264a
+
+I created this TOS modal, with a webview
 
 
