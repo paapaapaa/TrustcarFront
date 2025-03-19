@@ -4,7 +4,7 @@ Software Engineering Project course, Spring 2024
 This is the frontEnd repository for the project.
 
 
-##a few of my contributions to this repo
+## a few of my contributions to this repo
 
 https://github.com/user-attachments/assets/8ac3a1a3-b97c-44b3-8f2e-0434d0252e25
 
